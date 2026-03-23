@@ -1,8 +1,8 @@
 class Yorker < Formula
   desc "Precision synthetic monitoring as code"
   homepage "https://yorkermonitoring.com"
-  url "https://registry.npmjs.org/@yorker/cli/-/cli-0.1.0.tgz"
-  sha256 "1affdefaa26b363e3be75e009fba6088999ab8b0396f35a947f48e7432a9bb0e"
+  url "https://registry.npmjs.org/@yorker/cli/-/cli-0.2.0.tgz"
+  sha256 "ced379309259ded602bacf0155324b6fd1192dd3cf96f1be9149c79767b2a03b"
   license "MIT"
 
   depends_on "node"
